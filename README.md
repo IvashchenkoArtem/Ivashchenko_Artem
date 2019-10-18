@@ -7,3 +7,5 @@
 [Домашнее задание 3](https://ivashchenkoartem.github.io/Homework_3/ "Якоря") - Создание якорей.
 
 [Домашнее задание 4](https://ivashchenkoartem.github.io/Homework_4/ "Список покупок") - Список покупок.
+
+[Домашнее задание 5](https://ivashchenkoartem.github.io/Homework_5/ "Макет") - Вёрстка макета 1.
