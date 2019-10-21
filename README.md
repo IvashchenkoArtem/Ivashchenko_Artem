@@ -9,3 +9,5 @@
 [Домашнее задание 4](https://ivashchenkoartem.github.io/Homework_4/ "Список покупок") - Список покупок.
 
 [Домашнее задание 5](https://ivashchenkoartem.github.io/Homework_5/ "Макет") - Вёрстка макета 1.
+
+[Домашнее задание 6](https://ivashchenkoartem.github.io/Homework_6/ "Макет_2") - Вёрстка макета 2.
