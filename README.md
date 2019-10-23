@@ -13,3 +13,5 @@
 [Домашнее задание 6](https://ivashchenkoartem.github.io/Homework_6/ "Макет_2") - Вёрстка макета 2.
 
 [Домашнее задание 7](https://ivashchenkoartem.github.io/Homework_7/ "About-me") - Вёрстка з Fhotoshop.
+
+[Домашнее задание 8](https://ivashchenkoartem.github.io/Homework_8/ "Footer") - Вёрстка Footer.
