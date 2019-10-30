@@ -15,3 +15,15 @@
 [Домашнее задание 7](https://ivashchenkoartem.github.io/Homework_7/ "About-me") - Вёрстка з Fhotoshop.
 
 [Домашнее задание 8](https://ivashchenkoartem.github.io/Homework_8/ "Footer") - Вёрстка Footer.
+
+[Домашнее задание 9](https://ivashchenkoartem.github.io/Homework_9/ "Shoping List") - Shoping List.
+
+[Домашнее задание 10](https://ivashchenkoartem.github.io/Homework_10/ "Hello Namaste") - Hello Namaste.
+
+[Домашнее задание 11](https://ivashchenkoartem.github.io/Homework_11/ "Weather") - Weather.
+
+[Домашнее задание 12](https://ivashchenkoartem.github.io/Homework_12/ "Cup of cofee") - Cup of cofee.
+
+[Домашнее задание 13](https://ivashchenkoartem.github.io/Homework_13/ "November") - November.
+
+[Домашнее задание 14](https://ivashchenkoartem.github.io/Homework_14/ "Willow Crest") - Willow Crest.
