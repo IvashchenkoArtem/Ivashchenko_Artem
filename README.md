@@ -40,6 +40,6 @@
 
 [Домашнее задание 20](https://ivashchenkoartem.github.io/Homework_20/ "Form (contact)") - Form (contact).
 
-[Домашнее задание 21](https://ivashchenkoartem.github.io/Homework_21/ "Form (sign in)") - Form (sign in).
+[Домашнее задание 21](https://ivashchenkoartem.github.io/#sign "Form (sign in)") - Form (sign in).
 
 
