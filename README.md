@@ -27,3 +27,19 @@
 [Домашнее задание 13](https://ivashchenkoartem.github.io/Homework_13/ "November") - November.
 
 [Домашнее задание 14](https://ivashchenkoartem.github.io/Homework_14/ "Willow Crest") - Willow Crest.
+
+[Домашнее задание 15](https://ivashchenkoartem.github.io/Homework_15/ "LIKE TEARS IN RAIN") - LIKE TEARS IN RAIN.
+
+[Домашнее задание 16](https://ivashchenkoartem.github.io/Homework_16/ "Blog") - Blog.
+
+[Домашнее задание 17](https://ivashchenkoartem.github.io/Homework_17/ "Who we are") - Who we are.
+
+[Домашнее задание 18](https://ivashchenkoartem.github.io/Homework_18/ "BEM (Nike)") - BEM (Nike).
+
+[Домашнее задание 19](https://ivashchenkoartem.github.io/Homework_19/ "BEM") - BEM.
+
+[Домашнее задание 20](https://ivashchenkoartem.github.io/Homework_20/ "Form (contact)") - Form (contact).
+
+[Домашнее задание 21](https://ivashchenkoartem.github.io/Homework_21/ "Form (sign in)") - Form (sign in).
+
+
