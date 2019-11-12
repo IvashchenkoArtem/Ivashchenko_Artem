@@ -36,7 +36,7 @@
 
 [Домашнее задание 18](https://ivashchenkoartem.github.io/Homework_18/ "BEM (Nike)") - BEM (Nike).
 
-[Домашнее задание 19](https://ivashchenkoartem.github.io/Homework_19/ "BEM (Cahee)" - BEM (Cahee).
+[Домашнее задание 19](https://ivashchenkoartem.github.io/Homework_19/ "BEM (Cahee)") - BEM (Cahee).
 
 [Домашнее задание 20](https://ivashchenkoartem.github.io/Homework_20/ "Form (contact)") - Form (contact).
 
